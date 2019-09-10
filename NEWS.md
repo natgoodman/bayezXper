@@ -1,10 +1,10 @@
-Revision history for misigXper repository
+Revision history for bayezXper repository
 ================
 Nathan (Nat) Goodman
-September 6, 2019
+September 10, 2019
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
-Release 0.10 2019-09-06
+Release 0.10 2019-09-10
 -----------------------
 
 First version. Contains boilerplate files such as this one.

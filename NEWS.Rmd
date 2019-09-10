@@ -1,7 +1,7 @@
 ---
-title: "Revision history for misigXper repository"
+title: "Revision history for bayezXper repository"
 author: "Nathan (Nat) Goodman"
-date: "September 6, 2019"
+date: "September 10, 2019"
 output:
   html_document: default
   github_document:
@@ -13,7 +13,7 @@ urlcolor: blue
 ---
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-## Release 0.10 2019-09-06
+## Release 0.10 2019-09-10
 
 First version. Contains boilerplate files such as this one.
 
